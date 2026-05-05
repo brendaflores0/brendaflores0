@@ -26,7 +26,7 @@ I build scalable, intuitive interfaces for enterprise products. 5+ years deliver
 AWS Certified Cloud Practitioner (2022)
 
 ## 📫 Let's connect
-[brenda.gfp@gmail.com](mailto:brenda.gfp@gmail.com) · [Portfolio](https://brenda-flores.github.io)
+[brenda.gfp@gmail.com](mailto:brenda.gfp@gmail.com) · [Portfolio](https://brendaflores0.github.io/brenda-flores/)
 
 ---
 > Most of my work lives in private repos due to corporate and client confidentiality. Happy to walk through projects in detail during an interview!
